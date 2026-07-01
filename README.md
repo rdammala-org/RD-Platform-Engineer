@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Platform Engineer opportunities.
 
-**Live:** https://rdammala.github.io/RD-Platform-Engineer/
+**Live:** https://rdammala-org.github.io/RD-Platform-Engineer/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
